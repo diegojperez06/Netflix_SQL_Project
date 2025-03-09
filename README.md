@@ -1,5 +1,5 @@
 # Netflix_SQL_Project
-Answering business problems for Netflix using SQL
+Answering business problems for Netflix using SQL.
 
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
