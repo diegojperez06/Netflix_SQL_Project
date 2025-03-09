@@ -12,7 +12,7 @@ Answering business problems for Netflix using SQL
 --- 
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset.
 
-### Project Overview
+### Objectives
 ---
 The project seeks to collect data to gain insights into various business needs, including:
 
@@ -21,7 +21,7 @@ The project seeks to collect data to gain insights into various business needs, 
   * Compiling and evaluating content based on release years, countries, and durations.
   * Exploring and categorizing content according to specific criteria and keywords.
 
-### Project Overview
+### Dataset
 ---
 The data for this project is sourced from the Kaggle dataset:
 
