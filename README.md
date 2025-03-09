@@ -5,7 +5,7 @@ Answering business problems for Netflix using SQL
 - [Objectives](#objectives)
 - [Dataset](#dataset)
 - [Enviroment Setup](#enviroment_setup)
-- [Business Problems and Solutions](#business_problems_and_solutions)
+- [Business Problems and Solutions](#business-problems-and-solutions)
 - [Conclusion](#conclusion)
 
 ### Project Overview
